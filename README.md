@@ -14,6 +14,8 @@ This blog is dedicated to political data visualization and what good visuals loo
 
 [Short Form Blog 2](ShortFormBlog2.md)
 
+[Final Blog Assignment](FinalBlog.md)
+
 
 
 
