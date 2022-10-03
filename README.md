@@ -17,7 +17,8 @@ This blog is dedicated to political data visualization and what good visuals loo
 
 
 
-<u>About Me<u>
+
+**About Me**
 
 My name is *Harrison Israel* and I am a fourth-year student at *Northwestern University.* I am majoring in Political Science and Economics, with a minor in Creative Writing. 
 
