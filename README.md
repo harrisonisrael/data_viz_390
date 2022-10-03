@@ -1,10 +1,12 @@
 # Data Visualization
 
-Here I want to add more information about who I am and what I want to do in this class.
+This blog is dedicated to political data visualization and what good visuals look like.
 
-I can also put things in *italics* or I can make it **bold**
+**Blog Posts**
+Visualization Blog 1 [
 
-that's all!
+
+
 
 Here is a picture from my summer!
 
