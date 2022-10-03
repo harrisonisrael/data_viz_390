@@ -3,7 +3,8 @@
 This blog is dedicated to political data visualization and what good visuals look like.
 
 **Blog Posts**
-Visualization Blog 1 [
+
+Visualization Blog 1[VisualizationBlog1.md]
 
 
 
