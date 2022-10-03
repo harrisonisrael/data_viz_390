@@ -1,6 +1,6 @@
 # Data Visualization
 
-This blog is dedicated to political data visualization and what good visuals look like.
+This blog is dedicated to political data visualization and what good visuals look like. This blog is made in conjunction with the Northwestern University Class, Political Data Visualization 390. Throughout the course of the quarter, I will be examining and analyzing what proper data visualization looks like, and the standards in which all data analysts should uphold their work to. 
 
 **Blog Posts**
 
