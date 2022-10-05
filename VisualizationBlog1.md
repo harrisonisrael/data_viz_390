@@ -5,7 +5,7 @@
 [CDC](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm)
 
 ### A Lousy Visualization - From Bloomberg.com
-![Screen Shot 2022-10-04 at 9.36.09 PM.png)](https://github.com/harrisonisrael/data_viz_390/blob/main/Screen%20Shot%202022-10-04%20at%209.36.09%20PM.png)
+![Screen Shot 2022-10-04 at 9.36.09 PM.png)](https://github.com/harrisonisrael/data_viz_390/blob/main/Screen%20Shot%202022-10-04%20at%209.56.06%20PM.png)
 
 This CDC image displays very little relevant data. The data is hard to read, and incredibly difficult for the average person to understand. 
 
