@@ -1,7 +1,7 @@
 # Visualization Blog 1
 
 
-## A Good Visualization- From Business Insider
+### A Good Visualization- From Business Insider
 
 ![GoodVisual.png](https://github.com/harrisonisrael/data_viz_390/blob/main/GoodVisual.png)
 
