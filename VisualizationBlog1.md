@@ -18,6 +18,11 @@ Click [here](https://www.bloomberg.com/graphics/2022-us-gun-violence-world-compa
 
 ### My Own Visualization
 
+![firearms_crimeindex_img.png)](https://github.com/harrisonisrael/data_viz_390/blob/main/firearms_crimeindex_img.png)
+
+The above graph takes data about the number of firearms in a country per 100 people, and Numbeo's crime index rating to see how the amount of firearms in a country influences the amount of crime in the country. The crime index rating is a relative estimation of the overall amount of crime in a country. The index believes that a number lower than 20 is a very low amount of crime, 20-40 is a low amount, 40-60 is a moderate amount of crime, and any rating above 60 is a high amount of crime. 
+
+
 ### other graphs I was considering writing about:
 [Vox](https://www.vox.com/policy-and-politics/2017/10/2/16399418/america-mass-shooting-gun-violence-statistics-charts)
 
