@@ -4,6 +4,7 @@ For many years, the U.S. was home to the “American Dream”, where anyone coul
 
 My data comes from the Opportunity Atlas, created by Opportunity Insights, which is a non-profit, non-partisan organization from Harvard University. The team that developed this data is led by Raj Chetty, a Professor of Economics at Harvard and a pioneer in the economics of education and of equality. Specifically, I focused in on my home state of Massachusetts in order to work with a smaller data set and to see how upward mobility varied across the state. The data is quite comprehensive and is paired with U.S. census data in order to include demographic data, measurements for upward mobility, economic data in the state, etc.
 
+![varmobility.png](https://github.com/harrisonisrael/data_viz_390/blob/main/varmobility.png)
 ![singleparent.png](https://github.com/harrisonisrael/data_viz_390/blob/main/singleparent.png)
 ![racemobility.png](https://github.com/harrisonisrael/data_viz_390/blob/main/racemobility.png)
 ![edubycounty.png](https://github.com/harrisonisrael/data_viz_390/blob/main/edubycounty.png)
