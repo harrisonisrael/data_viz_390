@@ -24,3 +24,6 @@ The data provides a very interesting insight into what might impact upward mobil
 
 Nonetheless, this topic is incredibly important in understanding how to break cycles of poverty or even just of lower income and could be very illuminative in how policies should approach helping individuals into higher income brackets and to better future outcomes. While it looks as though the “American Dream” is fading (though there certainly can be arguments made that it never existed in the first place), there are still ways to improve upward mobility by continuing this research and by making policy recommendations based off of the results.  
 
+**Works Citted**
+Chetty, Raj, et al. “The Opportunity Atlas.” The Opportunity Atlas, Opportunity Insights, https://www.opportunityatlas.org/. 
+“Is The American Dream Dead or Alive?” PBS, Public Broadcasting Service, 5 Apr. 2016, http://www.pbs.org/wgbh/point-taken/american-dream-dead-alive/#poll. 
