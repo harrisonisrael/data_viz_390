@@ -5,8 +5,7 @@ For many years, the U.S. was home to the “American Dream”, where anyone coul
 My data comes from the Opportunity Atlas, created by Opportunity Insights, which is a non-profit, non-partisan organization from Harvard University. The team that developed this data is led by Raj Chetty, a Professor of Economics at Harvard and a pioneer in the economics of education and of equality. Specifically, I focused in on my home state of Massachusetts in order to work with a smaller data set and to see how upward mobility varied across the state. The data is quite comprehensive and is paired with U.S. census data in order to include demographic data, measurements for upward mobility, economic data in the state, etc.
 
 ![This visualization displays a Violin chart that looks at the variation in Household Incomes for 31-37 year olds whose parents were in the 25th percentile across counties](https://github.com/harrisonisrael/data_viz_390/blob/main/varmobility.png)
-![This graph shows how single parentage impacts upward mobility.png](https://github.com/harrisonisrael/data_viz_390/blob/main/singleparent.png)
-![This graph shows how upward mbility varies with poverty levels across race.png](https://github.com/harrisonisrael/data_viz_390/blob/main/racemobility1.png)
 ![This graph shows how the fraction of college degree holders impacts upward mobility, organized by county.png](https://github.com/harrisonisrael/data_viz_390/blob/main/edubycounty.png)
+![This graph shows how upward mbility varies with poverty levels across race.png](https://github.com/harrisonisrael/data_viz_390/blob/main/racemobility1.png)
+![This graph shows how single parentage impacts upward mobility.png](https://github.com/harrisonisrael/data_viz_390/blob/main/singleparent1.png)
 
-a
