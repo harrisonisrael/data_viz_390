@@ -20,6 +20,7 @@ library(extrafont)
 library(readxl)
 
 
+
 #Loading in the data and selecting relevant columns
 polling_data <- read_csv('polling_data.csv')
 view(polling_data)
