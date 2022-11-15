@@ -16,4 +16,4 @@ The hex plot is a clearer version of the scatter plot, allowing the viewer to mo
 
 ![This graph is a map.png](https://github.com/harrisonisrael/data_viz_390/blob/main/mapimage.png)
 
-The two maps show the distribution of the two variables by country. Countries that have more blue on both maps both have higher fractionalization and lower electoral turnout. Countries with more orange on both maps have lower fractionalization and higher electoral turnout. 
+The two maps show the distribution of the two variables by country. Countries that have more blue on both maps (like the United States) both have higher fractionalization and lower electoral turnout. Countries with more orange on both maps (like Australia) have lower fractionalization and higher electoral turnout. 
