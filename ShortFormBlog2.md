@@ -4,10 +4,16 @@ In the vdem dataset, electoral turnout is the percentage of registered voters th
 
 ![This graph is a scatter plot.png](https://github.com/harrisonisrael/data_viz_390/blob/main/pointplot.png)
 
-The scatter plot also uses another variable, 
+The scatter plot also uses another variable, the electoral democracy index. This variable examines to what extent the ideal of an electoral democracy is achieved, with 1 being a perfect electoral democracy, and 0 having no commonalities with electoral democracy. This variable showcases the level of democracy in a country, allowing the visual to demonstrate how democracy varies amongst both voter turnout and media fractionalization.
 
 ![This graph is a violin plot.png](https://github.com/harrisonisrael/data_viz_390/blob/main/violin_plot.png)
 
+The violin plot shows the data sorted into specific categories based on fractionalization, and gives a slightly better idea at how the two variables are related. Those category of low fractionalization has the lowest average voter turnout and the smallest spread of the data. 
+
 ![This graph is a hex plot.png](https://github.com/harrisonisrael/data_viz_390/blob/main/hexgrid.png)
 
+The hex plot is a clearer version of the scatter plot, allowing the viewer to more easily see the relationship between media fractionalization and voter turnout.
+
 ![This graph is a map.png](https://github.com/harrisonisrael/data_viz_390/blob/main/mapimage.png)
+
+The two maps show the distribution of the two variables by country. Countries that have more blue on both maps both have both lower fractionalization and lower electoral turnout. 
