@@ -24,7 +24,7 @@ Data:
   - Every Stat has a lot of interesting datasets broken down by intent, age, and location. I would like to use some of this data in my research. I would like to note that this website is pro gun safety, so I would want to double check and cross-reference the data before using it to ensure there are no biases. I would also like to redo their map on the homepage, as it is slightly hard to locate states on their setup.
 - https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm
   - There is some limited data from the CDC that could be useful in the initial look at firearm deaths by state.
- - https://www.statefirearmlaws.org/national-data
+- https://www.statefirearmlaws.org/national-data
   - This source, from Boston University, breaks down the specific laws that each state has implemented up through 2018. 
 
 
