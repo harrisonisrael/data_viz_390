@@ -1,6 +1,6 @@
 # Visualization Blog 3
 
-CW: Gun violence, death, suicide
+*CW: Gun violence, death, suicide*
 
 
 **What forms of gun control are effective at reducing gun violence in the United States? How does gun violence and gun control differ across the United States?**
@@ -13,13 +13,13 @@ CW: Gun violence, death, suicide
   - I would really like to look into the different specific policies that are enacted in states. Are some better than others? Which ones look to be effective. The issue here is that there are lots of correlates that impact the data (for instance, republican-led states might be less likely to implement gun control laws AND might also have a higher percentage of guns in the state because of the voters present. it could be hard to make the determination that a state has more guns because there are less laws rather than the reverse correlation that theere are less laws because their voters own more guns). 
   - I also would want to try and see if there was a specific state I could use as a case study, looking at gun violence rates or ownership rates before and after they implemented a law to see if there was any change.
 
-**The visualizations I would use:
+**The visualizations I would use:**
 - Maps: This project definitely lends itself to some maps, especially with the interactive idea, but also maybe a map based on gun violence rates per state. 
 - Scatter Plots: definitely would want to create some scatter plots to show the trends of gun ownership and rates of gun violence. 
 - Histogram: Could use a histogram to look at what laws are most common across states (looking at the law on the x-axis and the number of states that adopted the legislation on the y-axis.
 - Maybe others! So far those are the three ideas that I'm definitely going to look into. 
 
-**Data:
+**Data:**
 - https://everystat.org/methodology
   - Every Stat has a lot of interesting datasets broken down by intent, age, and location. I would like to use some of this data in my research. I would like to note that this website is pro gun safety, so I would want to double check and cross-reference the data before using it to ensure there are no biases. I would also like to redo their map on the homepage, as it is slightly hard to locate states on their setup.
 - https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm
