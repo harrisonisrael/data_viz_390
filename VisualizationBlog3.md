@@ -3,7 +3,7 @@
 CW: Gun violence, death, suicide
 
 
-1) What forms of gun control are effective at reducing gun violence in the United States? 
+What forms of gun control are effective at reducing gun violence in the United States? How does gun violence and gun control differ across the United States? 
 
 - Where are the highest rates of gun violence in the US? Where are the highest rates of gun ownership? Does the idea that "more guns = less crime" occur, or is that argument false and invalid? 
   - I would first want to look into if there is a correlation between rates of gun ownership and rates of gun violence 
@@ -19,7 +19,16 @@ The visualizations I would use:
 - Histogram: Could use a histogram to look at what laws are most common across states (looking at the law on the x-axis and the number of states that adopted the legislation on the y-axis.
 - Maybe others! So far those are the three ideas that I'm definitely going to look into. 
 
+Data:
+- https://everystat.org/methodology
+  - Every Stat has a lot of interesting datasets broken down by intent, age, and location. I would like to use some of this data in my research. I would like to note that this website is pro gun safety, so I would want to double check and cross-reference the data before using it to ensure there are no biases. I would also like to redo their map on the homepage, as it is slightly hard to locate states on their setup.
+- https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm
+  - There is some limited data from the CDC that could be useful in the initial look at firearm deaths by state.
+ - https://www.statefirearmlaws.org/national-data
+  - This source, from Boston University, breaks down the specific laws that each state has implemented up through 2018. 
 
+
+Other idea: 
 2) How has social media usage and subsequent polarization impacted new voters? 
 
 - Are voters now less likely to believe that they can work with voters with differing views? 
