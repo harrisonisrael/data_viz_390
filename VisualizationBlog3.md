@@ -30,6 +30,7 @@
 
 
 **Graphics I Like**
+
 One source that often has graphics I like and would like to emulate is the Washington Post. This article really sums up some great graphics. Two I really liked from here were the graphs on women running for congress and the article on how easy it is to vote for congress in each state. I liked the simplicity of the graphics in both places and the interactive components. I liked the personalization that the women running for congress article had, which I thought was a great touch. You can visit the articles [here.](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/)
 
 I also like the maps in [this article](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html) by the New York Times and feel that they are easy to read and really informative. However, I do think that the visualization about social vulnerability and vaccination rates by county is rather confusing and unhelpful. Overall this article has some great visualizations though! 
