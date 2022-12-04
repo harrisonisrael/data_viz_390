@@ -1,3 +1,7 @@
 # Final Blog Assignment
 
-Check back in here during December for more details! 
+Storyteller: Gun Violence and Gun Control Laws in the U.S.
+
+Visualizations:
+1) Interactive map of mass shootings in the US in 2022
+2) 
