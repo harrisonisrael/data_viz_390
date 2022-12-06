@@ -1,0 +1,118 @@
+packages <- c("tidyverse", "reshape2", "fauxnaif", "gganimate", "ggthemes",
+              "stringr", "gridExtra", "gifski", "png", "ggrepel", "scales",
+              "lubridate", "paletteer", "GGally", "systemfonts", "extrafont",
+              "colorspace", "sf", "rnaturalearth", "ggmap",
+              "rnaturalearthdata", "paletteer", "stringr", "haven", 
+              "plotly", "ggridges")
+
+lapply(packages, require, character.only = TRUE)
+
+loadfonts(device = "all")
+
+library(leaflet)
+library(htmltools)
+library(htmlwidgets)
+library(harrypotter)
+
+massshootings <- read_csv("massshootings.csv")
+view(massshootings)
+
+
+tag.map.title <- tags$style(HTML("
+  .leaflet-control.map-title { 
+    transform: translate(-50%,20%);
+    position: fixed !important;
+    left: 30%;
+    text-align: left;
+    padding-left: 5px; 
+    padding-right: 5px; 
+    background: rgba(255,255,255,0.75);
+    font-size: 16px;
+  }
+"))
+tag.map.caption <- tags$style(HTML("
+  .leaflet-control.map-caption { 
+    transform: translate(-50%,20%);
+    position: fixed !important;
+    left: 30%;
+    text-align: left;
+    padding-left: 5px; 
+    padding-right: 5px; 
+    background: rgba(255,255,255,0.75);
+    font-size: 8px;
+  }
+"))
+
+title <- tags$div(
+  tag.map.title, HTML("Mass Shootings in the U.S., 2022")
+)  
+
+caption <- tags$div(
+  tag.map.caption, HTML("Data Source: Gun Violence Archive (GVA) at <a href='https://www.gunviolencearchive.org/reports/mass-shooting'>this website</a>")
+)  
+
+massshootings %>%
+  leaflet() %>%
+  setView(-103.4617, 44.58, zoom = 4) %>%
+  addTiles() %>%
+  addMarkers(~longitude, ~latitude, 
+             popup = ~paste("<style> div.leaflet-popup-content {width:500px !important;}</style> <b>Date:</b>", Incident_Date, "<br>", 
+                            "<b>Killed</b>:", Killed,
+                            "<b>Injured</b>:", Injured), 
+             clusterOptions = markerClusterOptions()) %>%
+  addControl(title, position = "topleft", className="map-title") %>%
+  addControl(caption, position = "bottomleft", className = "caption")->massshootings_map
+
+
+saveWidget(massshootings_map, file = "massshootings.html", 
+           knitrOptions = c(fig.width = 10), 
+           title = "Mass Shootings in the U.S., 2022")
+           
+           
+           
+           
+CDCdeaths <- read_csv("CDCdeaths.csv")
+
+CDCdeaths %>%
+  filter(YEAR == 2020) %>%
+  ggplot(aes(x = GUNS, y = RATE, color = DEATHS)) +
+  geom_point(alpha = 0.5, size = 2.5, aes(text = STATE)) +
+  geom_smooth(method = "lm", color = "#8E0B0B", se = FALSE, size = 1) +
+  scale_color_hp(house = "Gryffindor", name = "Number of Gun Deaths") +
+  labs(x = "Percentage of Homes with Guns", y = "Number of Gun Deaths per 100,000 of the Total Population", title = "Do States with More Guns have Higher Rates of Gun-Related Deaths?") +
+  theme(panel.background = element_rect(fill= "white", color = NA), 
+        panel.grid.major.y = element_line(color = "gray", size = 0.35), 
+        panel.grid.major.x = element_line(color = "gray", size = 0.15),
+        text = element_text(family = "Palatino")) +
+  ylim(0,30) +
+  xlim(0,70)-> ownership_plot
+
+ggplotly(ownership_plot) -> gunownership_interactive
+
+saveWidget(gunownership_interactive, file = "gunownership_interactive.html", 
+           knitrOptions = c(fig.width = 10), 
+           title = "Gun Deaths and Gun Ownership Rates")
+           
+           
+           
+
+
+CDCdeaths %>%
+  filter(YEAR == 2016) %>%
+  ggplot(aes(x = LAWS, y = RATE, color = GUNS)) +
+  geom_point(alpha = 0.7, size = 2.5, aes(text = STATE)) +
+  geom_smooth(method = "lm", color = "#9F9F9F", se = FALSE, size = 0.8) +
+  scale_color_hp(house = "Hufflepuff", name = "Percentage of Households \n with Guns") +
+  labs(x = "Number of Gun Laws", y = "Number of Gun Deaths per 100,000 of the Total Population", title = "Do States with Less Gun Laws have Higher Rates of Gun-Related Deaths?") +
+  theme(panel.background = element_rect(fill= "white", color = NA), 
+        panel.grid.major.y = element_line(color = "gray", size = 0.35), 
+        panel.grid.major.x = element_line(color = "gray", size = 0.15),
+        text = element_text(family = "Palatino")) +
+  ylim(0,30) +
+  xlim(0,100)-> laws_plot
+
+ggplotly(laws_plot) -> lawsplot_interactive
+
+saveWidget(lawsplot_interactive, file = "lawsplot_interactive.html", 
+           knitrOptions = c(fig.width = 10), 
+           title = "Number of Gun Laws and Gun Deaths")
