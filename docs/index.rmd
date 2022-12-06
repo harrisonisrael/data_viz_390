@@ -117,3 +117,10 @@ saveWidget(lawsplot_interactive, file = "lawsplot_interactive.html",
            knitrOptions = c(fig.width = 10), 
            title = "Number of Gun Laws and Gun Deaths")
 
+
+
+  knit: (function(input_file, encoding) {
+    out_dir <- 'docs';
+    rmarkdown::render(input_file,
+      encoding=encoding,
+      output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
