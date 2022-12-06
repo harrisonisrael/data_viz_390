@@ -30,6 +30,10 @@ I also wanted to see if this was related to the number of gun laws that a state 
   
 *Here is the [interactive version of the graph](https://plotly.com/~harrisonisrael/1/) with the number of gun control laws in relation to the gun death rate by state.*
 
+<br />
+
+
+
 
 
   New England is an incredibly interesting region to look at and perhaps demonstrates the points shown in the graphs above very clearly. In New England, three states have strict gun control laws, while three states have very lax laws. Massachusetts has 103 gun control provisions in their state laws, and has one of the lowest firearm-related death rates, followed by Connecticut with 92 laws and Rhode Island with 54 laws. Neighboring states, Maine, New Hampshire, and Vermont each have 11, 9, and 20 gun control laws, respectively. The below map shows that the three states with more gun control laws also have much lower suicide by firearm rates. I chose this measure, rather than just purely the gun death rate, to demonstrate that these trends are applicable across intent and situation, as reducing suicides by guns are another incredibly important reason gun control should be enacted. 
