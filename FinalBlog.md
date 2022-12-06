@@ -2,6 +2,8 @@
 
 **Gun Violence and Gun Control Laws in the U.S.**
 
+*To see the code for this final blog post, click [here.](FinalProj.R)*
+
   On July 4th, 2022, Highland Park held their annual Fourth of July parade. The parade featured local community members, girl scout troops, local bands, daycare classes, and more, and was supposed to be a joyous summer celebration. Families and spectators lined the downtown streets of Highland Park in order to watch the parade, many waving flags or dressed in red, white, and blue. The celebration took a turn for the worse when a gunman opened fire from the roof of a business beside the parade route, firing over 70 shots with a high-powered rifle. Seven people were killed, while thirty-one others were injured. 
 
 Across the country in Maine, I was working as an overnight camp counselor for the summer. One of my campers, a fourteen year old who grew up and lives in Glencoe, Illinois, was pulled from activities for the day and had a phone call with his parents, where he learned one of his family friends had been killed in the attack. Two of my other campers, who grew up in Parkland, Florida and were in the adjoining middle school when the shooting in the high school took place, also have seen the horrible impacts of such gun violence. While mass shootings are not nearly the most prominent way in which people die from gun violence, they prove time and time again that something must change in order to protect our children, our families, and our citizens. This blog post seeks to prove that gun control laws can be effective in reducing gun violence, and urges the United States to begin to implement sweeping gun control to **finally** actually make a change. 
