@@ -20,4 +20,4 @@ Visualizations:
 ![This graph is about Iowa.png](https://github.com/harrisonisrael/data_viz_390/blob/main/iowa.png)
 
 
-![This graph is about Connecticut.png](https://github.com/harrisonisrael/data_viz_390/blob/main/connecticut.png)
+![This graph is about Connecticut.png](https://github.com/harrisonisrael/data_viz_390/blob/main/conneceticut.png)
