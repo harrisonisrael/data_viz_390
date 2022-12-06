@@ -13,6 +13,8 @@ Visualizations:
 
 ![This graph is a histogram about how many states have gun control laws.png](https://github.com/harrisonisrael/data_viz_390/blob/main/numberofstates.png)
 
+![This graph is a map of New England.png](https://github.com/harrisonisrael/data_viz_390/blob/main/newengland.png)
+
 
 ![This graph is about Pennsylvania.png](https://github.com/harrisonisrael/data_viz_390/blob/main/pennsylvania.png)
 
