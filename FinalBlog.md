@@ -78,14 +78,19 @@ After seeing that states with more guns have more deaths, and states with more l
   
   **Works Cited**
    <br />
+   
   “CDC Wonder.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 2022, https://wonder.cdc.gov/controller/datarequest/D158;jsessionid=8AF99C8B0D0B3D97A024CAFA2E74. 
    <br />
+   
   Cherney, Samantha, Andrew R. Morral, Terry L. Schell, Sierra Smucker, and Emily Hoch, Development of the RAND State Firearm Law Database and Supporting Materials. Santa Monica, CA: RAND Corporation, 2022. https://www.rand.org/pubs/tools/TLA243-2-v2.html.
    <br />
+   
 “Gun Violence Archive.” Gun Violence Archive, Gun Violence Archive, 20 Nov. 2022, https://www.gunviolencearchive.org/reports/mass-shooting. 
 Learish, Jessica, and Elisha Fieldstadt. “Gun Map: Ownership by State.” CBS News, CBS Interactive, 14 Apr. 2022, https://www.cbsnews.com/pictures/gun-ownership-rates-by-state/52/. 
  <br />
+ 
 Shapiro, Emily, and Ivan Pereria. “Highland Park Parade Mass Shooting Suspect Charged with 7 Counts of First-Degree Murder.” ABC News, ABC News Network, 5 July 2022, https://abcnews.go.com/US/shooting-reported-4th-july-parade-chicago-suburb-highland/story?id=86186529. 
  <br />
+ 
 Siegel, Michael. “State-by-State Firearm Law Data.” State Firearm Laws, Boston University , 2021, https://www.statefirearmlaws.org/. 
 “Stats of the States - Firearm Mortality.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 1 Mar. 2022, https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm. 
