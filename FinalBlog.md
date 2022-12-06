@@ -3,7 +3,7 @@
 Storyteller: Gun Violence and Gun Control Laws in the U.S.
 
 Visualizations:
-1) Interactive map of mass shootings in the US in 2022. ![This graph is a scatter plot.png](https://github.com/harrisonisrael/data_viz_390/blob/main/massshootings.html)
+1) Interactive map of mass shootings in the US in 2022. ![This graph is a scatter plot.png](file:///Users/harrisonisrael/Documents/GitHub/data_viz_390/massshootings.html)
 
 2) Gun Ownership rates and death correlation graph
 3) Number of Laws and Death correlation graph
