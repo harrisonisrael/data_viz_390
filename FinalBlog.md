@@ -1,6 +1,6 @@
 # Final Blog Assignment
 
-Storyteller: Gun Violence and Gun Control Laws in the U.S.
+**Gun Violence and Gun Control Laws in the U.S.**
 
   On July 4th, 2022, Highland Park held their annual Fourth of July parade. The parade featured local community members, girl scout troops, local bands, daycare classes, and more, and was supposed to be a joyous summer celebration. Families and spectators lined the downtown streets of Highland Park in order to watch the parade, many waving flags or dressed in red, white, and blue. The celebration took a turn for the worse when a gunman opened fire from the roof of a business beside the parade route, firing over 70 shots with a high-powered rifle. Seven people were killed, while thirty-one others were injured. 
 
@@ -16,6 +16,8 @@ I first wanted to get a better idea of what gun violence in the United States lo
 At the heart of the gun control debate is the idea that individuals have the right to bear arms, with many even suggesting that more guns would make the United States more safe. Is there validity to this claim? In order to investigate this, I created a graph to see if the number of guns in a state was correlated with the number of gun-related deaths that occurred in the state. 
 Using data from the CDC, I created the following scatter plot and regression, which does demonstrate that states with more guns also have more gun-related deaths, disproving the argument that “more guns are safer”. 
 
+ ![This graph is a the relationship between number of guns and gun violence rates.png](https://github.com/harrisonisrael/data_viz_390/blob/main/ownership_plot.png)
+
 *Here is the [interactive version of the graph](https://plotly.com/~harrisonisrael/3/) with the percentage of guns in relation to the gun death rate by state.*
 
 
@@ -23,6 +25,8 @@ Using data from the CDC, I created the following scatter plot and regression, wh
 I also wanted to see if this was related to the number of gun laws that a state has. There is wide variety in the number of gun control laws that states have, with Idaho having the fewest number of laws, with only 1, which is the elementary gun control provision prohibiting guns from being carried on elementary school property. Otherwise, no other forms of gun control exist in the state (aside from any federal, countrywide laws). California has the highest number of gun controls at 107, and thus is the strictest state on guns. 
 
   Using data from the CDC and https://www.statefirearmlaws.org/, created by Boston University, I created another graph and regression to see if there was any correlation between the number of gun laws a state has (just purely the number of laws) and the gun-related death rate for the state. A correlation in this graph would demonstrate purely that gun control laws are effective in a general sense. While there certainly could be unintended correlations between the types of people that vote for gun control laws and the state's firearm-related death rate, the graph does demonstrate that, regardless, gun control laws are effective at reducing the gun-related death rate.
+  
+   ![This graph is a the relationship between number of gun control laws and gun violence rates.png](https://github.com/harrisonisrael/data_viz_390/blob/main/laws_plot.png)
   
 *Here is the [interactive version of the graph](https://plotly.com/~harrisonisrael/1/) with the number of gun control laws in relation to the gun death rate by state.*
 
