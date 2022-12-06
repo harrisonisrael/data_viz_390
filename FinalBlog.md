@@ -3,7 +3,7 @@
 Storyteller: Gun Violence and Gun Control Laws in the U.S.
 
 Visualizations:
-1) Interactive map of mass shootings in the US in 2022.
+1) Click [here](https://harrisonisrael.github.io/data_viz_390/) for an interactive map of all mass shootings that have occurred in the US in 2022.
 
 
 
