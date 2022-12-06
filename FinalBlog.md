@@ -5,7 +5,11 @@ Storyteller: Gun Violence and Gun Control Laws in the U.S.
 Visualizations:
 1) Interactive map of mass shootings in the US in 2022.
 
-Here is the [interactive graph with the percentage of guns in relation to the gun death rate](https://plotly.com/~harrisonisrael/3/)by state.
+
+
+Here is the [interactive version of the graph](https://plotly.com/~harrisonisrael/3/) with the percentage of guns in relation to the gun death rate by state.
+
+Here is the [interactive version of the graph](https://plotly.com/~harrisonisrael/1/) with the number of gun control laws in relation to the gun death rate by state.
 
 
 2) Gun Ownership rates and death correlation graph
