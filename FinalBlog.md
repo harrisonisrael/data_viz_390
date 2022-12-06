@@ -11,7 +11,7 @@ I first wanted to get a better idea of what gun violence in the United States lo
 
 *Click [here](https://harrisonisrael.github.io/data_viz_390/) for an interactive map of all mass shootings that have occurred in the US in 2022.*
 
-
+<br />
 	
 At the heart of the gun control debate is the idea that individuals have the right to bear arms, with many even suggesting that more guns would make the United States more safe. Is there validity to this claim? In order to investigate this, I created a graph to see if the number of guns in a state was correlated with the number of gun-related deaths that occurred in the state. 
 Using data from the CDC, I created the following scatter plot and regression, which does demonstrate that states with more guns also have more gun-related deaths, disproving the argument that “more guns are safer”. 
@@ -20,7 +20,7 @@ Using data from the CDC, I created the following scatter plot and regression, wh
 
 *Here is the [interactive version of the graph](https://plotly.com/~harrisonisrael/3/) with the percentage of guns in relation to the gun death rate by state.*
 
-
+<br />
 
 I also wanted to see if this was related to the number of gun laws that a state has. There is wide variety in the number of gun control laws that states have, with Idaho having the fewest number of laws, with only 1, which is the elementary gun control provision prohibiting guns from being carried on elementary school property. Otherwise, no other forms of gun control exist in the state (aside from any federal, countrywide laws). California has the highest number of gun controls at 107, and thus is the strictest state on guns. 
 
@@ -34,15 +34,17 @@ I also wanted to see if this was related to the number of gun laws that a state 
 
 
 
-
-
   New England is an incredibly interesting region to look at and perhaps demonstrates the points shown in the graphs above very clearly. In New England, three states have strict gun control laws, while three states have very lax laws. Massachusetts has 103 gun control provisions in their state laws, and has one of the lowest firearm-related death rates, followed by Connecticut with 92 laws and Rhode Island with 54 laws. Neighboring states, Maine, New Hampshire, and Vermont each have 11, 9, and 20 gun control laws, respectively. The below map shows that the three states with more gun control laws also have much lower suicide by firearm rates. I chose this measure, rather than just purely the gun death rate, to demonstrate that these trends are applicable across intent and situation, as reducing suicides by guns are another incredibly important reason gun control should be enacted. 
   
   ![This graph is a map of New England.png](https://github.com/harrisonisrael/data_viz_390/blob/main/newengland.png)
+  
+  <br />
 
 After seeing that states with more guns have more deaths, and states with more laws have less deaths (and also less guns), I was left wondering what actual laws could be effective at limiting such deaths and injuries. The laws across the country vary greatly, and can therefore be hard to study. While the number of laws a state has certainly has an impact, specific laws might be better at reducing gun violence death rates than others. The RAND corporation created a dataset which included data on two specific laws, a Permit to Purchase law and Universal Background Checks, both of which are often brought up by those urging for gun control. How many states already had these in place? Are they common laws? The bar chart below shows how many states have implemented each of these laws. 
 
 ![This graph is a histogram about how many states have gun control laws.png](https://github.com/harrisonisrael/data_viz_390/blob/main/numberofstates.png)
+
+<br />
 
   Additionally, the RAND data set also includes a measurement on the percentage of suicides done by guns, as well as many general measurements of how many guns exist in each state (they all report relatively similar numbers, but for this paper I used the GSS estimate, or the General Social Survey estimate because it was done the most often. Other surveys, like those by the Pew Research Center and Gallup were only done a few times, whereas the GSS had reports from nearly every year). Certain states implemented the Permit to Purchase law or the Universal Background Check law (or both) during the time this data was being collected, so I decided to exploit these changes to see if these laws actually caused a decrease in the overall number of guns. I conducted three specific case studies around three states that implemented these laws: Maryland, Iowa, and Connecticut. Maryland implemented Universal background checks in 1996 and the Permit to Purchase law in 2013, both marked on the graph below. As shown, the percentage of male suicides done by guns hovered around 60% prior to the implementation of background checks, and after the implication dropped to around 50%, where it has remained since, demonstrating that these laws can be effective at reducing deaths. 
   
