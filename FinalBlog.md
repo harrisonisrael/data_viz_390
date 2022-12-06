@@ -2,6 +2,9 @@
 
 **Gun Violence and Gun Control Laws in the U.S.**
 
+*CW: Gun Violence*
+
+
 *To see the code for this final blog post, click [here.](FinalProj.R)*
 
   On July 4th, 2022, Highland Park held their annual Fourth of July parade. The parade featured local community members, girl scout troops, local bands, daycare classes, and more, and was supposed to be a joyous summer celebration. Families and spectators lined the downtown streets of Highland Park in order to watch the parade, many waving flags or dressed in red, white, and blue. The celebration took a turn for the worse when a gunman opened fire from the roof of a business beside the parade route, firing over 70 shots with a high-powered rifle. Seven people were killed, while thirty-one others were injured. 
