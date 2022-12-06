@@ -11,6 +11,9 @@ Visualizations:
 5) The four state graphs as case studies
 6) 
 
+![This graph is a histogram about how many states have gun control laws.png](https://github.com/harrisonisrael/data_viz_390/blob/main/numberofstates.png)
+
+
 ![This graph is about Pennsylvania.png](https://github.com/harrisonisrael/data_viz_390/blob/main/pennsylvania.png)
 
 
