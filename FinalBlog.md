@@ -11,14 +11,13 @@ Visualizations:
 5) The four state graphs as case studies
 6) 
 
-![This graph is about Pennsylvania.png](file:///Users/harrisonisrael/Documents/GitHub/data_viz_390/pennsylvania.png)
+![This graph is about Pennsylvania.png](https://github.com/harrisonisrael/data_viz_390/blob/main/pennsylvania.png)
 
 
-![This graph is about Maryland.png](file:///Users/harrisonisrael/Documents/GitHub/data_viz_390/maryland.png)
+![This graph is about Maryland.png](https://github.com/harrisonisrael/data_viz_390/blob/main/maryland.png)
 
 
-![This graph is about Iowa.png](file:///Users/harrisonisrael/Documents/GitHub/data_viz_390/iowa.png)
+![This graph is about Iowa.png](https://github.com/harrisonisrael/data_viz_390/blob/main/iowa.png)
 
 
-![This graph is about Connecticut.png](file:///Users/harrisonisrael/Documents/GitHub/data_viz_390/connecticut.png)
-
+![This graph is about Connecticut.png](https://github.com/harrisonisrael/data_viz_390/blob/main/connecticut.png)
